@@ -2,17 +2,12 @@
 Aula 32
 
 #¿Qué y cuáles son las Ceremonias?
-##1) Sprint Planning Meeting (reunión de planificación del sprint). 
-Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint. 
-El Scrum Master le comunicará al Development Team" los contenidos del  “Product Backlog”, aquí se planea como se va a dar solución a la primer fase del
-producto final.
-Como resultado obtenemos una lista de funcionalidades llamadas “Sprint Backlog” tomadas del Product backlog” que es el conjunto de requisitos que se deberá construir
-en un tiempo determinado (de una a cuatro semanas) 
+a) Sprint Planning Meeting
+b) Daily Scrum Meeting
+c) Sprint Review Meeting
+d) Sprint Retrospective Meeting
 
-
-
-
-
-
-
-
+a) Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+b) Daily Scrum Meeting (reunión periódica). Se produce diariamente, y tiene un máximo de 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+c) Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
+d) Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce también al finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
