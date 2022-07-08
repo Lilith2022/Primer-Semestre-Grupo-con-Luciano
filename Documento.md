@@ -75,3 +75,12 @@ Al compartir tu perfil de GitHub con tu potencial empleador o cliente, este podr
 ## **Registrar incidencias**
 
 Cada proyecto creado en GitHub incluye un sistema de seguimiento de problemas que entrega a los miembros de tu equipo (o a cualquier usuario de GitHub si tu repositorio es público) la posibilidad de “abrir un ticket” escribiendo en este los detalles acerca de un error o problema que pueda presentar tu software e incluso incluir sugerencias con el fin de que sean evaluadas e implementadas. 
+
+##*Bibliografía"
+
+>https://trabajarporelmundo.org/que-es-github-y-como-usarlo/
+>https://acceso.ispc.edu.ar/mod/book/view.php?id=22421
+>https://acceso.ispc.edu.ar/mod/book/view.php?id=22421&chapterid=2359
+>https://acceso.ispc.edu.ar/mod/book/view.php?id=22421&chapterid=2358
+>https://acceso.ispc.edu.ar/mod/book/view.php?id=22421&chapterid=2357
+
