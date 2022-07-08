@@ -16,3 +16,14 @@
 - Simplicidad, sólo los artefactos necesarios.
 - Motivación, compromiso y responsabilidad del equipo por la autogestión, auto-organización.
 
+## GIT
+
+Git es un **sistema de control de versiones (VCS) distribuido**, diseñado para manejar de proyecto pequeños a muy grandes, con velocidad y eficiencia.
+
+### Ventajas
+- Sistema distribuido, que permite el trabajo incluso sin conexion.
+- Super rapido y ligero
+- Crear ramas y mezclarlas poco propenso a problemas
+- La integridad de la informacion esta asegurada gracias a su modelo de almacenamiento, que permite predecir este tipo de problemas
+- Operaciones locales
+- Copias instantaneas 
